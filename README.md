@@ -2,7 +2,7 @@
 
 <a href="https://bloggersites.netlify.app/">https://bloggersites.netlify.app/</a>
 
-<p>Frontend Repo <a href="https://github.com/Nishanth4696/blog-client">https://github.com/Nishanth4696/blog-client</a></p>
+<p>Frontend Repo <a href="https://github.com/Nishanth4696/Blog-frontend">https://github.com/Nishanth4696/Blog-frontend</a></p>
 
 <p>Backend Repo <a href="https://github.com/Nishanth4696/blog-server">https://github.com/Nishanth4696/blog-server </a></p>
 
