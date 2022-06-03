@@ -5,7 +5,7 @@ import SinglePost from "../../components/singlePost/SinglePost";
 export default function Single() {
   return (
     <div>
-    <Sidebar />
+    
     <div className="single">
       <SinglePost/>
       
